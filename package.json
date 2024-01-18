@@ -16,15 +16,14 @@
   "author": "csquared",
   "license": "MIT",
   "dependencies": {
-    "crypto-js": "~3.1.2-1",
+    "crypto-js": "~4.2.0",
     "urlsafe-base64": "1.0.0"
   },
   "devDependencies": {
-    "browserify": "~2.29.1",
-    "buffer-browserify": "~0.2.2",
-    "mocha": "*",
-    "chai": "*",
-    "sinon": "*",
-    "sinon-chai": "*"
+    "browserify": "~17.0.0",
+    "mocha": "^10.2.0",
+    "chai": "^4.0.0",
+    "sinon": "^17.0.1",
+    "sinon-chai": "^3.7.0"
   }
 }
